@@ -1,9 +1,9 @@
-#include <stdio.h>
 #include <hellomake.h>
+#include <stdio.h>
 
-void myPrintHelloMake(void) {
+void myPrintHello(void) {
 
-  printf("Hello makefiles!\n");
+  printf("Hello Aryavrata!\n");
 
   return;
 }

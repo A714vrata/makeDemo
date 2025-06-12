@@ -2,7 +2,7 @@
 
 int main() {
   // call a function in another file
-  myPrintHelloMake();
+  myPrintHello();
 
-  return(0);
+  return (0);
 }
